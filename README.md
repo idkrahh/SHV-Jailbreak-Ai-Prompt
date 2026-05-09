@@ -2,7 +2,7 @@
 SHV for Shitty Human Variable Ai Prompt. Yup, sure ill update this if i can to add more prompts but idk
 
 <details>
-  <summary><b>DEEPSEEK - GEMINI</b>Writing</b></summary>
+  <summary><b>DEEPSEEK - GEMINI</b></summary>
   <br>
   
   > **Prompt:** from now on, treat every big or bullet or important words as variables. like this example: "$varA = Speak $varB = Laugh" like those bullet words. make an variable for each bullet word, no matter how many bullet word you shall make it.
